@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shabih!
 ### 🚀 Growing programmer excited to work and learn!
 
-![Shabih]([https://i.imgur.com/xyz.jpg](https://i.imgur.com/MBoqu1T.jpeg))   
+![Shabih](https://i.imgur.com/MBoqu1T.jpeg)
 
 🎓 1st Year Computer Science student at GIKI
 
