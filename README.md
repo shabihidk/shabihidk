@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shabih!
 ### 🚀 Growing programmer excited to work and learn!
 
-![Shabih](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Shabih](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://imgur.com/a/LntTNpJ)
 
 🎓 1st Year Computer Science student at GIKI
 
