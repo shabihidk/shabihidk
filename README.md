@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shabih!
 ### 🚀 Growing programmer excited to work and learn!
 
-![Shabih](https://imgur.com/a/LntTNpJ)
+![Shabih](https://i.imgur.com/xyz.jpg)   
 
 🎓 1st Year Computer Science student at GIKI
 
@@ -27,3 +27,4 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shabih&show_icons=true)
+
