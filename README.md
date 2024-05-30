@@ -13,7 +13,7 @@
 
 ### Projects
 
-- [Project 1](link-to-project-1): Description of Project 1
+- [Project 1](https://github.com/shabihidk/2nd-Semester-Final-Project): 2nd Semester Project
 - [Project 2](link-to-project-2): Description of Project 2
 - [Project 3](link-to-project-3): Description of Project 3
 
@@ -21,7 +21,7 @@
 
 ### Get in touch
 
-📫 Email me: [your-email@example.com](mailto:your-email@example.com)  
+📫 Email me: [mvpshabih](mvpshabih@gmail.com)  
 🌐 Visit my [portfolio website](https://shabih.github.io)
 
 ---
