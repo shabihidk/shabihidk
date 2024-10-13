@@ -3,7 +3,7 @@
 
 ![Shabih](https://i.imgur.com/MBoqu1T.jpeg)
 
-🎓 1st Year Computer Science student at GIKI
+🎓 2nd Year Computer Science student at GIKI
 
 💻 Skills: C++ / Python 
 
