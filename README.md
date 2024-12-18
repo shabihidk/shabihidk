@@ -22,7 +22,6 @@
 ### Get in touch
 
 📫 Email me: [mvpshabih](mvpshabih@gmail.com)  
-🌐 Visit my [portfolio website](https://shabih.github.io)
 
 ---
 
