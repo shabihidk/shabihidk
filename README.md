@@ -13,9 +13,9 @@
 
 ### Projects
 
-- [Project 1](https://github.com/shabihidk/2nd-Semester-Final-Project): 2nd Semester Project
-- [Project 2](link-to-project-2): Description of Project 2
-- [Project 3](link-to-project-3): Description of Project 3
+- [Project 1](https://github.com/shabihidk/2nd-Semester-Final-Project): OOP Final Project (2nd Semester)
+- [Project 2](https://github.com/shabihidk/DSA-Final-Project): DSA Final Project (3rd Semester)
+- [Project 3](https://github.com/shabihidk/First-Semester-Final-Project): CS 101 Final Project (1st Semester)
 
 ---
 
