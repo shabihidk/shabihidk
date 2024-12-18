@@ -25,5 +25,5 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shabih&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shabihidk&show_icons=true)
 
