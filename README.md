@@ -39,10 +39,10 @@ Learning about real enterprise ecosystems under CSI’s umbrella, including **Ha
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🎮 [A*Mazer](https://github.com/shabihidk/A-Mazer) | A Raylib-based maze game built in C++ with timers, leaderboard, and external maze loading. | `C++`, `Raylib` |
-| 🎶 [AI Music Recommender](https://github.com/shabihidk/Music-Recommendation-App) | Spotify-style personalized music app using PostgreSQL + Flask backend and React frontend. | `Python`, `React`, `PostgreSQL` |
-| 🧠 [Lexical Analyzer](https://github.com/shabihidk/C-Lexical-Analyzer) | C++ lexical analyzer using Flex for CS224. | `C++`, `Flex` |
-| 🧱 [Assembly Avoidance Game](https://github.com/shabihidk/Assembly-Lane-Avoider) | A console-based 8086 Assembly game with timing-based scoring. | `Assembly (8086)` |
+| 🎮 [A*Mazer](https://github.com/shabihidk/Music-Recommendation-System) | A Raylib-based maze game built in C++ with timers, leaderboard, and external maze loading. | `C++`, `Raylib` |
+| 🎶 [Music Recommender](https://github.com/shabihidk/Music-Recommendation-System) | Spotify-style personalized music app using PostgreSQL + Flask backend and React frontend. | `Python`, `React`, `PostgreSQL` |
+| 🧠 Lexical Analyzer | C++ lexical analyzer using Flex for CS224. | `C++`, `Flex` |
+| 🧱 [Assembly Avoidance Game](https://github.com/shabihidk/Object-Avoidance-Game-in-Assembly-8086) | A console-based 8086 Assembly game with timing-based scoring. | `Assembly (8086)` |
 ---
 
 ## 📈 GitHub Stats
