@@ -43,8 +43,6 @@ Learning about real enterprise ecosystems under CSI’s umbrella, including **Ha
 | 🎶 [AI Music Recommender](https://github.com/shabihidk/Music-Recommendation-App) | Spotify-style personalized music app using PostgreSQL + Flask backend and React frontend. | `Python`, `React`, `PostgreSQL` |
 | 🧠 [Lexical Analyzer](https://github.com/shabihidk/C-Lexical-Analyzer) | C++ lexical analyzer using Flex for CS224. | `C++`, `Flex` |
 | 🧱 [Assembly Avoidance Game](https://github.com/shabihidk/Assembly-Lane-Avoider) | A console-based 8086 Assembly game with timing-based scoring. | `Assembly (8086)` |
-| 🚗 [Arduino Smart Car](https://github.com/shabihidk/Arduino-Smart-Car) | Bluetooth-controlled Arduino car with mobile app integration. | `Arduino`, `C`, `Bluetooth` |
-
 ---
 
 ## 📈 GitHub Stats
