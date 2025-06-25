@@ -43,6 +43,9 @@ Learning about real enterprise ecosystems under CSI’s umbrella, including **Ha
 | 🎶 [Music Recommender](https://github.com/shabihidk/Music-Recommendation-System) | Spotify-style personalized music app using PostgreSQL + Flask backend and React frontend. | `Python`, `React`, `PostgreSQL` |
 | 🧠 Lexical Analyzer | C++ lexical analyzer using Flex for CS224. | `C++`, `Flex` |
 | 🧱 [Assembly Avoidance Game](https://github.com/shabihidk/Object-Avoidance-Game-in-Assembly-8086) | A console-based 8086 Assembly game with timing-based scoring. | `Assembly (8086)` |
+| 🧬 [Signature Cluster Tool](https://github.com/shabihidk/SignatureClusterTool) | OOP-based clustering visualizer with correlation matrices, signature-based reordering, and bitmap rendering. | `C++`, `FireMonkey`|
+
+
 ---
 
 ## 📈 GitHub Stats
