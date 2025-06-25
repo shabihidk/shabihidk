@@ -20,7 +20,7 @@
 ## 🛠️ Skills & Tools
 
 - 💻 Languages: `C++`, `Python`, `JavaScript`, `SQL`, `HTML/CSS`
-- 🧰 Frameworks & Tools: `Flask`, `React`, `Vite`, `Node.js`, `Git`, `PostgreSQL`, `MongoDB`
+- 🧰 Frameworks & Tools: `Flask`, `React`, `Git`, `PostgreSQL`, `MongoDB`
 - 🧪 Projects: Full-stack development, automation, AI-powered apps, Assembly games, Arduino-based systems
 
 ---
