@@ -3,7 +3,7 @@
 ## 🧠 About Me
 
 - 🎓 **2nd Year Computer Science Student** @ GIKI
-- 💼 **Intern @ Contour Software** → Exploring CSI, Harris, Perseus
+- 💼 **Intern @ Contour Software** Exploring Dev
 - 🌍 Building **impact-first software** for mental health, civic change & education
 - 🧠 Currently learning: `Flask` • `React` • `PostgreSQL` • `System Design` • `GitHub Actions`
 
