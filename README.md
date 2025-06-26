@@ -2,10 +2,10 @@
 
 ## 🧠 About Me
 
-- 🎓 **2nd Year Computer Science Student** @ GIKI
-- 💼 **Intern @ Contour Software** Exploring Dev
-- 🌍 Building **impact-first software** for mental health, civic change & education
-- 🧠 Currently learning: `Flask` • `React` • `PostgreSQL` • `System Design` • `GitHub Actions`
+* 🎓 **2nd Year Computer Science Student** @ GIKI
+* 💼 **Intern @ Contour Software** exploring Dev
+* 🌍 Building **impact-first software** for mental health, civic change & education
+* 🧠 Currently learning: `Flask` • `React` • `PostgreSQL` • `System Design` • `GitHub Actions`
 
 ---
 
@@ -38,7 +38,7 @@ Projects      :  Full-Stack Web • Games • Assembly • Data Viz • Automati
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------- |
 | 🎮 [**A\*Mazer**](https://github.com/shabihidk/A-Mazer)                                             | A Raylib-based maze game with timers, leaderboard, and external maze loading | `C++`, `Raylib`                 |
 | 🎶 [**Music Recommender**](https://github.com/shabihidk/Music-Recommendation-System)                | Spotify-style full-stack music app using Flask + React                       | `Python`, `React`, `PostgreSQL` |
-| 🔍 [**Lexical Analyzer**]                                                                           | Flex-based lexical analyzer for CS224                                        | `C++`, `Flex`                   |
+| 🔍 \[**Lexical Analyzer**]                                                                          | Flex-based lexical analyzer for CS224                                        | `C++`, `Flex`                   |
 | 🧱 [**Object Avoidance Game**](https://github.com/shabihidk/Object-Avoidance-Game-in-Assembly-8086) | Console-based 8086 Assembly game with scoring logic                          | `Assembly`                      |
 | 🔬 [**Signature Cluster Tool**](https://github.com/shabihidk/SignatureClusterTool)                  | Clustering visualizer using correlation & signature-based reordering         | `C++`, `FireMonkey`             |
 
@@ -46,15 +46,19 @@ Projects      :  Full-Stack Web • Games • Assembly • Data Viz • Automati
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shabihidk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabihidk&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
 ---
 
 ## 📩 Let's Connect
 
-- 📧 **Email:** [mvpshabih@gmail.com](mailto\:mvpshabih@gmail.com)
-- 🧑‍💼 **LinkedIn:** [linkedin.com/in/shabihidk](https://linkedin.com/in/shabihidk)
-- 🌐 **Portfolio:** *Coming soon – stay tuned!*
+* 📧 **Email:** [mvpshabih@gmail.com](mailto:mvpshabih@gmail.com)
+* 🧑‍💼 **LinkedIn:** [linkedin.com/in/shabihidk](https://linkedin.com/in/shabihidk)
+* 🌐 **Portfolio:** *Coming soon – stay tuned!*
 
 ---
 
 > *“Build things that make a dent in the universe, even if just a pixel.”*
-
