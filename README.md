@@ -26,8 +26,7 @@ Projects      :  Full-Stack Web • Games • Assembly • Data Viz • Automati
 
 ### 💼 Internship @ Contour Software
 
-> Learning real enterprise software ecosystems under CSI’s umbrella — including Harris & Perseus.
-
+> Learning real enterprise software ecosystems under CSI’s umbrella.
 ---
 
 ## 📂 Featured Projects
