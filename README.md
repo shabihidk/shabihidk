@@ -3,7 +3,7 @@
 * **2nd Year Computer Science Student** @ GIKI
 * **Intern @ Contour Software** exploring Dev
 * Building **impact-first software** for mental health, civic change & education
-* Currently learning: `Flask` • `React` • `PostgreSQL` • `System Design` • `GitHub Actions`
+* Currently learning: `Flask` • `React` • `System Design` • `GitHub Actions`
 
 ---
 
