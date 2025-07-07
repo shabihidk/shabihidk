@@ -38,6 +38,8 @@ Projects      :  Full-Stack Web • Games • Assembly • Data Viz • Automati
 | 🔍 \[**Lexical Analyzer**]                                                                          | Flex-based lexical analyzer for CS224                                        | `C++`, `Flex`                   |
 | 🧱 [**Object Avoidance Game**](https://github.com/shabihidk/Object-Avoidance-Game-in-Assembly-8086) | Console-based 8086 Assembly game with scoring logic                          | `Assembly`                      |
 | 🔬 [**Signature Cluster Tool**](https://github.com/shabihidk/SignatureClusterTool)                  | Clustering visualizer using correlation & signature-based reordering         | `C++`, `FireMonkey`             |
+| 🔬 [**🎤 Urdu To English Audio Transcriptor**](https://github.com/DuaArshad-1/Transcription-Project)        |   Using Whisper for transcription and playback features      | `Flask`, `PostgresSQL`, `Python`, `React`, `Flask`, `Pyannote`,  `Whisper`, `JavaScript` |          
+
 
 ---
 
