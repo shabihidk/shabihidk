@@ -1,63 +1,62 @@
-# About Me
-
-* **2nd Year Computer Science Student** @ GIKI
-* **Intern @ Contour Software** exploring Dev
-* Building **impact-first software** for mental health, civic change & education
-* Currently learning: `Flask` • `React` • `System Design` • `GitHub Actions`
+# 👋 Hey, I'm Shabih  
+**3rd Year CS @ GIKI** • **SWE Intern @ Contour Software**  
+Building impact-first systems for mental health, civic transparency & education.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 What I'm Working On
 
-```txt
-Languages     :  C++   |   Python   |   JavaScript   |   SQL   |   HTML/CSS
-Frameworks    :  Flask |   React    |   FireMonkey   |   MongoDB | PostgreSQL
-Tools         :  Git   |   GitHub Actions   |   VS Code   |   Figma
-Projects      :  Full-Stack Web • Games • Assembly • Data Viz • Automation
+### 🧹 SunoAid — AI-Powered Complaint Resolution Platform
+A next-gen connectivity + escalation system for universities & institutions.
+
+**Key Features**
+- 🤖 AI auto-categorization (OpenAI-powered severity + category detection)
+- 🛰️ Smart routing with load balancing
+- 🔐 Multi-tenant RBAC (Student, Staff, Dept, Admin, Super Admin)
+- 📡 Real-time tracking via Firestore
+- 📊 Analytics dashboard
+- ⚙️ Cloud Functions workflow: categorization → assignment → notifications → SLA monitoring
+
+**Tech:** `Next.js 14` • `TypeScript` • `Firebase Functions` • `Firestore` • `OpenAI API` • `Tailwind` • `Shadcn/UI` • `GitHub Actions`
+
+---
+
+## 🛠️ Skills
+
+```
+Languages   : C++ | Python | TypeScript | JavaScript | SQL | HTML/CSS
+Frameworks  : Next.js | React | Flask | Firebase Functions | Raylib
+Databases   : Firestore | PostgreSQL | MongoDB
+Tools       : Git | GitHub Actions | VS Code | Figma
 ```
 
 ---
 
-## 🔥 What I'm Working On
-
-### 🧹 [SunoAid – A Civic Help Platform](https://github.com/shabihidk/SunoAid)
-
-> A citizen-first civic-tech tool to report, confirm, and escalate issues with **rule-based ML**, **heatmaps**, and **admin accountability**.
-
-### 💼 Internship @ Contour Software
-
-> Learning real enterprise software ecosystems under CSI’s umbrella.
----
-
 ## 📂 Featured Projects
 
-| 🌟 Project                                                                                          | 🗞️ Description                                                              | 🛠️ Stack                       |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------- |
-| 🎮 [**A\*Mazer**](https://github.com/shabihidk/A-Mazer)                                             | A Raylib-based maze game with timers, leaderboard, and external maze loading | `C++`, `Raylib`                 |
-| 🎶 [**Music Recommender**](https://github.com/shabihidk/Music-Recommendation-System)                | Spotify-style full-stack music app using Flask + React                       | `Python`, `React`, `PostgreSQL` |
-| 🔍 \[**Lexical Analyzer**]                                                                          | Flex-based lexical analyzer for CS224                                        | `C++`, `Flex`                   |
-| 🧱 [**Object Avoidance Game**](https://github.com/shabihidk/Object-Avoidance-Game-in-Assembly-8086) | Console-based 8086 Assembly game with scoring logic                          | `Assembly`                      |
-| 🔬 [**Signature Cluster Tool**](https://github.com/shabihidk/SignatureClusterTool)                  | Clustering visualizer using correlation & signature-based reordering         | `C++`, `FireMonkey`             |
-| 🔬 [**🎤 Urdu To English Audio Transcriptor**](https://github.com/DuaArshad-1/Transcription-Project)        |   Using Whisper for transcription and playback features      | `Flask`, `PostgresSQL`, `Python`, `React`, `Flask`, `Pyannote`,  `Whisper`, `JavaScript` |          
-
+| ⭐ Project | Description | Stack |
+|----------|-------------|--------|
+| 🎮 **A*Mazer** | Raylib-based maze game with leaderboards | `C++`, `Raylib` |
+| 🎶 **Music Recommender** | Spotify-style Flask + React music app | `Flask`, `React`, `PostgreSQL` |
+| 🔬 **Signature Cluster Tool** | Clustering visualization tool | `C++`, `FireMonkey` |
+| 🎤 **Urdu→English Transcriptor** | Whisper + Pyannote speech tool | `Flask`, `React`, `Python` |
+| 🧱 **8086 Assembly Game** | Object avoidance game with scoring | `Assembly` |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabihidk&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabihidk&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shabihidk&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabihidk&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
-## 📩 Let's Connect
-
-* 📧 **Email:** [mvpshabih@gmail.com](mailto:mvpshabih@gmail.com)
-* 🧑‍💼 **LinkedIn:** [linkedin.com/in/shabihidk](https://linkedin.com/in/shabihidk)
-* 🌐 **Portfolio:** *Coming soon – stay tuned!*
+## 📫 Connect  
+📧 **Email:** mvpshabih@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/shabihidk  
 
 ---
 
-> *“Build things that make a dent in the universe, even if just a pixel.”*
+> *“Build things that make a dent — even if it's just a pixel.”*
