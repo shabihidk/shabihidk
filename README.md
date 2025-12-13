@@ -1,50 +1,49 @@
-# 👋 Hey, I'm Shabih  
-**3rd Year CS @ GIKI** • **SWE Intern @ Contour Software**  
-Building impact-first systems for mental health, civic transparency & education.
+# 🌌 Shabih
+**3rd Year CS @ GIKI** • **XIntern @ Contour Software**
+Wabi Sabi Coder
 
 ---
 
-## 🚀 What I'm Working On
+## New Projects
 
-### 🧹 SunoAid — AI-Powered Complaint Resolution Platform
-A next-gen connectivity + escalation system for universities & institutions.
+###  Parallel Image Filters Using OpenMP
+OpenMP-accelerated image filters with real-time thread monitoring
 
-**Key Features**
-- 🤖 AI auto-categorization (OpenAI-powered severity + category detection)
-- 🛰️ Smart routing with load balancing
-- 🔐 Multi-tenant RBAC (Student, Staff, Dept, Admin, Super Admin)
-- 📡 Real-time tracking via Firestore
-- 📊 Analytics dashboard
-- ⚙️ Cloud Functions workflow: categorization → assignment → notifications → SLA monitoring
+**CS361L Project | Muhammad Shabih Ul Hassan Raja (2023506) | Syed Ghazi Abbas (2023679)**  
+ [Repository](https://github.com/shabihidk/Gaussian-Blur-OMP)
 
-**Tech:** `Next.js 14` • `TypeScript` • `Firebase Functions` • `Firestore` • `OpenAI API` • `Tailwind` • `Shadcn/UI` • `GitHub Actions`
+**What It Does:**
+- Gaussian Blur — Smooth images
+- Sharpen Filter — Enhance edges
+- Sobel Edge Detector — Detect edges
 
----
+Includes **Python GUI** with live thread progress monitoring.
 
-## 🛠️ Skills
+
+##  Skills
 
 ```
 Languages   : C++ | Python | TypeScript | JavaScript | SQL | HTML/CSS
 Frameworks  : Next.js | React | Flask | Firebase Functions | Raylib
 Databases   : Firestore | PostgreSQL | MongoDB
-Tools       : Git | GitHub Actions | VS Code | Figma
+Tools       : Git | GitHub Actions | VS Code | Figma | Terminal vibes
 ```
 
 ---
 
-## 📂 Featured Projects
+## 🎯 Other Projects
 
-| ⭐ Project | Description | Stack |
-|----------|-------------|--------|
-| 🎮 **A*Mazer** | Raylib-based maze game with leaderboards | `C++`, `Raylib` |
-| 🎶 **Music Recommender** | Spotify-style Flask + React music app | `Flask`, `React`, `PostgreSQL` |
-| 🔬 **Signature Cluster Tool** | Clustering visualization tool | `C++`, `FireMonkey` |
-| 🎤 **Urdu→English Transcriptor** | Whisper + Pyannote speech tool | `Flask`, `React`, `Python` |
-| 🧱 **8086 Assembly Game** | Object avoidance game with scoring | `Assembly` |
+| Project | What It Does | Stack |
+|--------|--------------|-------|
+| A*Mazer | Raylib maze game w/ leaderboard | C++, Raylib |
+| Music Recommender | Spotify-style music discovery | Flask, React, PostgreSQL |
+| Signature Cluster Tool | Visualize clusters | C++, FireMonkey |
+| Urdu→English Transcriptor | Whisper + Pyannote speech tool | Flask, React, Python |
+| 8086 Assembly Game | Retro object-avoidance w/ scoring | Assembly |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shabihidk&show_icons=true&theme=radical" height="150" />
@@ -53,10 +52,9 @@ Tools       : Git | GitHub Actions | VS Code | Figma
 
 ---
 
-## 📫 Connect  
-📧 **Email:** mvpshabih@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/shabihidk  
+## 📫 Connect
 
----
+**Email:** mvpshabih@gmail.com  
+**LinkedIn:** [shabihidk](https://linkedin.com/in/shabihidk)
 
-> *“Build things that make a dent — even if it's just a pixel.”*
+> *“Speed is key”*
