@@ -1,5 +1,6 @@
 # 🌌 Shabih
 **3rd Year CS @ GIKI** • **XIntern @ Contour Software**
+
 Wabi Sabi Coder
 
 ---
