@@ -63,8 +63,8 @@ I am a computer science student currently building everything from hardware-leve
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabihidk&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabihidk&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shabihidk&show_icons=true&theme=radical&v=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabihidk&layout=compact&theme=radical&v=1" height="150" alt="Top Languages" />
 </p>
 
 ---
