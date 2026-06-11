@@ -1,7 +1,7 @@
-# 🌌 Shabih
-**Rising Senior CS @ GIKI** • **Former Intern @ Contour Software**
+# Shabih
+**CS @ GIKI** • **xIntern @ Contour Software**
 
-*Wabi-Sabi Coder: Finding elegance in simple, efficient, and well-crafted software.*
+*Wabi-Sabi Coder*
 
 I am a computer science student currently building everything from hardware-level assembly logic to full-stack machine learning applications and offline-first mobile platforms. Right now, I'm tackling professional certificates, building out my interactive portfolio, and looking for a role that values impactful work alongside a strong work-life balance. When I step away from the keyboard, you can usually find me lifting weights, experimenting with new guitar arrangements, or writing poetry.
 
